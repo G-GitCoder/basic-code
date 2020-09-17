@@ -14,9 +14,9 @@ public class Demo01PrintArray {
         //使用面向过程，每一个步骤细节都要亲力亲为
         System.out.print("[");
         for (int i = 0; i < array.length; i++) {
-            if(i == array.length - 1){//如果是最后一个元素
+            if (i == array.length - 1) {//如果是最后一个元素
                 System.out.println(array[i] + "]");
-            }else {//如果不是最后一个元素
+            } else {//如果不是最后一个元素
                 System.out.print(array[i] + ", ");
             }
         }
