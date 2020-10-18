@@ -6,7 +6,7 @@ public class Demo04Student {
 
         stu.setAge(20);
         stu.setMale(true);
-        stu.setName("鹿晗");
+        stu.setName("鹿涵涵");
 
         System.out.println("姓名：" + stu.getName());
         System.out.println("年龄：" + stu.getAge());

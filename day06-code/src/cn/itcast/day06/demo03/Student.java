@@ -7,7 +7,7 @@ public class Student {
 
     private String name;//姓名
     private int age;//年龄
-    private boolean male;//性别
+    private boolean male;//性别，爷们？
 
     public void setMale(boolean b) {
         male = b;
