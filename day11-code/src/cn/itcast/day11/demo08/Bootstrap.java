@@ -30,5 +30,7 @@ public class Bootstrap {
         //手气红包
         OpenMode random = new RandomMode();
         red.setOpenWay(random);
+
+        System.out.println("结束了");
     }
 }
