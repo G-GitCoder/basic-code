@@ -31,6 +31,6 @@ public class Bootstrap {
         OpenMode random = new RandomMode();
         red.setOpenWay(random);
 
-        System.out.println("结束了");
+        System.out.println("结束了！！！");
     }
 }
